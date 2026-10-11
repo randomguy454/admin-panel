@@ -12,7 +12,7 @@
 --=====================================================================--
 -- CONFIG
 --=====================================================================--
-local OWNER_NAME  = "@SHADOWMILESc"          -- <<< PUT YOUR USERNAME HERE
+local OWNER_NAME  = "SHADOWMILESc"          -- <<< PUT YOUR USERNAME HERE
 local TOGGLE_KEY  = Enum.KeyCode.RightControl
 local WINDOW_SIZE = Vector2.new(660, 420)
 
